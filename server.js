@@ -23,7 +23,7 @@ app.post("/", (req, res) => {
     secure: true,
     auth: {
       user: "reddytrinath39@gmail.com",
-      pass: "dxbo bqeh cyvr lyzw",
+      pass: "Dxbo bqeh cyvr lyzw", //d
     },
   });
 
